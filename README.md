@@ -52,10 +52,10 @@ To get started with the **Job-in** app, follow these steps:
 ### Contact
 For any inquiries or issues, please contact Your `sehandevinda1@gmail.com`.
 
-###Sample Video & Screen shots
-
-![sdadasd 00_00_00-00_00_30](https://github.com/user-attachments/assets/b9e0ed2b-b8e1-4f66-94c5-36b2aecfc79f)
+### Sample Video & Screen shots
 
 ![Screenshot 2024-07-26 100229](https://github.com/user-attachments/assets/46af8a4f-8dd6-4030-8d29-0c34badf0a1d)
 ![Screenshot 2024-07-26 100014](https://github.com/user-attachments/assets/84521985-8f9c-4456-9260-05ffe958d437)
 ![Screenshot 2024-07-26 095933](https://github.com/user-attachments/assets/2feefd68-b74b-440d-b842-74585a5c6c34)
+
+![sdadasd 00_00_00-00_00_30](https://github.com/user-attachments/assets/b9e0ed2b-b8e1-4f66-94c5-36b2aecfc79f)
